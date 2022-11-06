@@ -24,7 +24,7 @@ There are two projects within this solution.
 
 With each release more features are added to MS Word. Therefore, there is plenty of scope for this assembly to be extended.
 
-The assembly was developed originally as part of a desktop application called [Sargon Objects]( https://www.delaneys.space/software/sargon).
+The assembly was developed originally as part of a desktop application called [Sargon Objects]( https://www.delaneys.space/software/sargon?source=github).
 
 
 ## Sample Code
@@ -45,3 +45,4 @@ body.Add(paragraph);
 // Save
 document.SaveAs("c:\temp\Hello World.docx");
 ```
+[Delaneys.Space]( https://www.delaneys.space?source=github)
