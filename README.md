@@ -14,6 +14,8 @@ This is a C# .NET 6.0 assembly dedicated to building MS Word .docx documents. It
 
 It is inspired by MS Words object model, so developers familiar with using VSTO or VBA in MS Word will understand the API.
 
+Viist my website to view [example](https://www.delaneys.space/software/docx?source=github).
+
 ## Usage
 Download the solution and run within Visual Studio to display the console application. The console will list options for building sample MS Word documents.
 
@@ -45,4 +47,4 @@ body.Add(paragraph);
 // Save
 document.SaveAs("c:\temp\Hello World.docx");
 ```
-[Delaneys.Space]( https://www.delaneys.space?source=github)
+[Delaneys.Space](https://www.delaneys.space?source=github)
